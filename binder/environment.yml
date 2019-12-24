@@ -18,6 +18,7 @@ dependencies:
   - dask-ml
   - bokeh
   - pyviz/label/earthsim::holoviews
+  - jupyter-server-proxy
   - pyviz/label/earthsim::panel
   - geoviews
   - hvplot
