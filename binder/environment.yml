@@ -39,6 +39,7 @@ dependencies:
   - eccodes
   - ipywidgets
   - ipyleaflet
+  - cfgrib
   - graphviz
   - dask-kubernetes
   - pip:
