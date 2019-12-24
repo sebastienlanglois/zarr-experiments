@@ -36,6 +36,7 @@ dependencies:
   - nbserverproxy
   - jupyter
   - jupyterlab=0.35
+  - eccodes
   - ipywidgets
   - ipyleaflet
   - graphviz
