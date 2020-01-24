@@ -5,6 +5,7 @@ dependencies:
   - python=3.7
   - cartopy
   - rasterio
+  - descartes
   - numpy
   - scipy
   - pandas
